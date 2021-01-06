@@ -1,0 +1,11 @@
+.board {
+  background-color: #ff0d00;
+  height: 350px;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.board td {
+  background-color: #fac9c6;
+}
