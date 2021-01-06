@@ -9,3 +9,9 @@
 .board td {
   background-color: #fac9c6;
 }
+
+#cell00 {
+  background-color: #98F992;
+  background-size: 100px 100px;
+  background-image: url("../jotaro.png");
+} 
